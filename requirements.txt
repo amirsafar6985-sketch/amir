@@ -1,0 +1,5 @@
+customtkinter
+python-vlc
+mutagen
+tkinterdnd2
+Pillow
